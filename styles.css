@@ -15,7 +15,7 @@ body {
 .top-image {
     right: 50%;
     bottom: 50%;  
-    position: absolute; 
+    position: fixed; 
     z-index: -1;
 }
 
